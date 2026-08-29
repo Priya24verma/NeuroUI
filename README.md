@@ -477,14 +477,3 @@ All settings are accessible via the popup **Fine-tune settings** panel:
 5. **Rello, L. & Baeza-Yates, R. (2013)**. Good fonts for dyslexia. *ACM ASSETS*
 6. **Zorzi, M. et al. (2012)**. Extra-large letter spacing improves reading in dyslexia. *PNAS*
 
----
-
-## 📄 License
-
-This project was built for a hackathon. All rights reserved.
-
----
-
-<p align="center">
-  <sub>Built with ❤️ for neurodivergent users everywhere</sub>
-</p>
